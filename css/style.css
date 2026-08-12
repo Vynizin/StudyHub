@@ -10,3 +10,19 @@ body{
 h1 , h2 , h3{
   font-family: "Poppins", sans-serif;
 }
+
+header{
+  background-color: var(--azul-principal);
+  color: #F5F5F5;
+}
+a.botao{
+  background-color: var(--laranja-acao);
+  margin: 2px;
+  padding: 5px;
+  border-radius: 5px;
+  display: inline-block
+}
+
+p{
+  padding: 20px;
+}
